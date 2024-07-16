@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="">
-    <img src="./architecture.png" alt="Framework" width="95%">
+    <img src=".docs/architecture.png" alt="Framework" width="95%">
   </a>
 </p>
 
