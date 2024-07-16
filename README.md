@@ -1,7 +1,3 @@
-# EBDM
-
- * Eungbean Lee, Somi Jeong and Kwanghoon Sohn  
- * European Conference on Computer Vision (ECCV), 2024  
 <p align="center">
 <h2 align="center">EBDM: Exemplar-guided Image Translation with Brownian-bridge Diffusion Models</h2>
 <p align="center">
@@ -20,7 +16,7 @@
 
 <p align="center">
   <a href="">
-    <img src="./media/bicycle_3dgs_vs_ours.gif" alt="Logo" width="95%">
+    <img src="./docs/architecture.png" alt="Logo" width="95%">
   </a>
 </p>
 
