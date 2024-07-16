@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center">EBDM: Exemplar-guided Image Translation with Brownian-bridge Diffusion Models</h2>
+<h1 align="center">EBDM: Exemplar-guided Image Translation with Brownian Bridge</h2>
 <p align="center">
     <a href="https://eungbean.com">Eungbean Lee</a>
     ·
@@ -21,8 +21,7 @@
 </p>
 
 <p align="center">
-We introduce a Brownian Bridge Diffusion Model for exemplar-guided image translation (EGIT), <br>
- that translates from structure control to a photo-realistic image while exploiting style from exemplars.
+We introduce a Brownian Bridge Diffusion Model for exemplar-guided image translation (EGIT), that translates from structure control to a photo-realistic image while exploiting style from exemplars.
 </p>
 <be>
 
